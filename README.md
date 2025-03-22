@@ -1,17 +1,17 @@
 # 🌐 Subhash Bathala - Portfolio  
 
-Welcome to my personal portfolio website! 🚀 This project showcases my skills, experience, and projects as a **Full-Stack Developer** specializing in **React, Node.js, and Python**.  
+Welcome to my personal portfolio website! 🚀 This project showcases my skills, experience, and projects as a **Full-Stack Developer** specializing in ** Python**.  
 
 ## 📌 Live Demo  
 🔗 [View Portfolio](https://your-live-portfolio-link.com)  
 
 ## 📜 About  
-This portfolio is designed to highlight my work in **web development, backend development, and software engineering**. Built with **HTML, CSS, JavaScript, React, and Node.js**, it includes details about my skills, education, and projects.  
+This portfolio is designed to highlight my work in **web development, backend development, and software engineering**. Built with **HTML, CSS, JavaScript**, it includes details about my skills, education, and projects.  
 
 ## 🛠 Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
+- **Frontend:** HTML, CSS, JavaScript 
+- **Backend:** puthon
+- **Database:** sql  
 - **Tools:** Git, Postman, VS Code  
 
 ## 📂 Features  
