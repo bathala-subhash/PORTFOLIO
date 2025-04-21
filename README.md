@@ -26,5 +26,4 @@ This portfolio is designed to highlight my work in **web development, backend de
 ## 🚀 Getting Started  
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/bathala-subhash/portfolio.git
 
